@@ -15,3 +15,7 @@ This Power BI dashboard analyzes Superstore sales data, helping visualize revenu
 
 ## File:
 - SalesDashboard.pbix
+
+# Dashboard preview 
+- dashboard.png
+
